@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>demo-darkmode.stattic.site</title>
+<link>https://demo-darkmode.stattic.site/</link>
+<description>Latest posts from demo-darkmode.stattic.site</description>
+<atom:link href="https://demo-darkmode.stattic.site/feed/index.xml" rel="self" type="application/rss+xml" />
+<lastBuildDate>Tue, 07 Jan 2025 22:31:09 GMT</lastBuildDate>
+<language>en-us</language>
+
+<item>
+<title>Customizing Stattic: Command-Line Arguments for Stattic - demo-darkmode.stattic.site</title>
+<link>https://demo-darkmode.stattic.site/blog/command-line-arguments-for-stattic/</link>
+<description>Stattic is a flexible static site generator that lets you customize the way your site is built through a variety of command-line arguments. These arguments allow you to minify files,...
+</description>
+<guid isPermaLink="false">41ca889b6b718425ffeac733e9abe768</guid>
+<pubDate>Tue, 07 Jan 2025 17:31:09 +0000</pubDate>
+</item>
+
+<item>
+<title>Decentralizing Publishing with Stattic - demo-darkmode.stattic.site</title>
+<link>https://demo-darkmode.stattic.site/blog/decentralizing-publishing-with-stattic/</link>
+<description>When control over content and website creation is increasingly centralized under unstable power, there's a growing need for tools that empower the community to publish independently. Stattic is an open...
+</description>
+<guid isPermaLink="false">e139ed9d2ce2129ad435e0b15e6d2d99</guid>
+<pubDate>Tue, 07 Jan 2025 17:31:09 +0000</pubDate>
+</item>
+
+<item>
+<title>How to Build and Deploy Your Website with Stattic and GitHub Pages - demo-darkmode.stattic.site</title>
+<link>https://demo-darkmode.stattic.site/blog/build-with-stattic-and-deploy-on-github-pages/</link>
+<description>With Stattic, you can easily build a static site and deploy it to GitHub Pages for free hosting. This guide will walk you through how to create your site, export...
+</description>
+<guid isPermaLink="false">cd31003b9de854863e406013d89bdc77</guid>
+<pubDate>Tue, 07 Jan 2025 17:31:09 +0000</pubDate>
+</item>
+
+<item>
+<title>Customizing Stattic: Front Matter Fields - demo-darkmode.stattic.site</title>
+<link>https://demo-darkmode.stattic.site/blog/front-matter-fields-for-stattic/</link>
+<description>1. title - Description: The title of your post or page. - Type: String - Default: 'Untitled' - Usage: title: &amp;quot;Your Post Title&amp;quot; ### 2. date - Description: The...
+</description>
+<guid isPermaLink="false">7e25a6ba814627c1c3327333bd34d39b</guid>
+<pubDate>Tue, 07 Jan 2025 17:31:09 +0000</pubDate>
+</item>
+
+<item>
+<title>Say Hello to Stattic - demo-darkmode.stattic.site</title>
+<link>https://demo-darkmode.stattic.site/blog/say-hello-to-stattic/</link>
+<description>Welcome to Stattic, the lightweight, modern, static site generator that's decentralizing publishing and putting the power to create websites back into the hands of the community creating them. If you've...
+</description>
+<guid isPermaLink="false">7515e69e3b171aa460122aa387986575</guid>
+<pubDate>Tue, 07 Jan 2025 17:31:09 +0000</pubDate>
+</item>
+
+</channel>
+</rss>
